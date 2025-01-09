@@ -4,6 +4,17 @@ This document includes all changes made to the `srvc2` module per version.
 
 <!-- version list -->
 
+## v1.2.1 (2025-01-09)
+
+### Bug Fixes
+
+- **cli**: Change cli output text ([`c9ac344`](https://github.com/codejedi365/psr-monorepo-poweralpha/commit/c9ac34488bcd50a5606e8988d48c022ebcfb26b8))
+
+### Chores
+
+- **config**: Configure semantic release to use custom monorepo parser ([`36bb2ef`](https://github.com/codejedi365/psr-monorepo-poweralpha/commit/36bb2ef0c9abd1eee97be652ed5da3f044100648))
+
+
 ## v1.2.0 (2025-01-06)
 
 ### Chores
